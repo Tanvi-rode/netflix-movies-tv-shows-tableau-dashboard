@@ -3,7 +3,7 @@
 Interactive Tableau dashboard exploring Netflix's content library by type,
 country, rating, genre, and release year.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image)
 
 
 ## Objective
